@@ -30,7 +30,7 @@ Team Number:
 
     your answer here
 
-7. Profile of UART: Sent X bytes in Y time 
+7. Profile of UART: Sent X bytes in Y time
 
     your answer here
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/logicanalyzer)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
