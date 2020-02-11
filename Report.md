@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/logicanalyzer)
+![Put path to your image here ->](img/logicanalyzer.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
