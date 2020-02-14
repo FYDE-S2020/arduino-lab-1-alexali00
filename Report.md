@@ -47,17 +47,17 @@ Team Number: F3
 
 10. list one pro and one con of UART
 
-    pro: simple to operate
+    pro: simple to operate,
     con: slow
 
 11. list one pro and one con of SPI
 
-    pro: fast
+    pro: fast,
     con: more pins occupied
 
 12. list one pro and one con of I2C
 
-    pro: flexible because it supports multi-master and multi-slave communication
+    pro: flexible because it supports multi-master and multi-slave communication,
     con: requires more space for resistors
 
 13. Why does I2C need external resistors to work?
