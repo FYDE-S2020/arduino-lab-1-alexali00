@@ -21,8 +21,8 @@ Team Number: F3
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-   It flickers visibly as it brightens and dims
-   Solutions: use a higher frequency so the human eye cannot detect the flickering and do not lower the frequency below a certain threshold
+   It flickers visibly as it brightens and dims.
+   Solutions: use a higher frequency so the human eye cannot detect the flickering and do not lower the frequency below a certain threshold.
    Real world solution: increase the frequency and provide the light source with stable power
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
