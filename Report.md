@@ -23,16 +23,15 @@ Team Number: F3
 
    It flickers visibly as it brightens and dims
    Solutions: use a higher frequency so the human eye cannot detect the flickering and do not lower the frequency below a certain threshold
-   Real world solution: 
+   Real world solution: increase the frequency and provide the light source with stable power
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
 
-    So the voltages are relative to the same ground value
-    *not sure*
+  you need to close the circuit between the two to prevent a short
 
 6. What is the difference between synchronous and asynchronous communication?
 
-    your answer here
+    synchronous communication requires a clock signal between the sender and receiver while asynchronous does not need a clock
 
 7. Profile of UART: Sent X bytes in Y time
 
@@ -44,23 +43,26 @@ Team Number: F3
 
 9. Why is SPI so much faster than UART?
 
-    your answer here
+    Because SPI uses a clock to operate while UART only refreshes when it sends/receives date
 
 10. list one pro and one con of UART
 
-    your answer here
+    pro: simple to operate
+    con: slow
 
 11. list one pro and one con of SPI
 
-    your answer here
+    pro: fast
+    con: more pins occupied
 
 12. list one pro and one con of I2C
 
-    your answer here
+    pro: flexible because it supports multi-master and multi-slave communication
+    con: requires more space for resistors
 
 13. Why does I2C need external resistors to work?
 
-    your answer here
+   the lines are open drain, so they require pull up or pull down resistors
 
 ## Screenshots
 
